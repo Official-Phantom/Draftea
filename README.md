@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Somber Logo" src="https://raw.githubusercontent.com/Official-Phantom/Draftea/main/images/logo.png" width="100" />
+  <img alt="Draftea" src="https://raw.githubusercontent.com/Official-Phantom/Draftea/main/images/logo (1).png" width="100" />
 </p>
 <h1 align="center">
   Draftea
